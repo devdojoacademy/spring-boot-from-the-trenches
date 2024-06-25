@@ -12,6 +12,7 @@
 	<artifactId>anime-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Anime Service</name>
+
 	<description>Demo project for the course Spring Boot From The Trenches</description>
 
 	<properties>
