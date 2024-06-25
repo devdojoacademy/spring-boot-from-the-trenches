@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("hi")
     public String hi(){
-        return "OMAE MOU SHINDE IRU";
+        return "OMAE WA MOU SHINDE IRU";
     }
 }
